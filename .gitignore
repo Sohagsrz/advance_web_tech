@@ -5,6 +5,9 @@ dist/
 /node_modules
 node_modules/
 **/node_modules
+/uploads
+uploads/
+**/uploads
 
 # Logs
 logs
